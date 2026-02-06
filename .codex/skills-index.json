@@ -3,7 +3,7 @@
   "name": "claude-code-skills",
   "description": "Production-ready skill packages for AI agents - Marketing, Engineering, Product, C-Level, PM, and RA/QM",
   "repository": "https://github.com/alirezarezvani/claude-skills",
-  "total_skills": 42,
+  "total_skills": 43,
   "skills": [
     {
       "name": "ceo-advisor",
@@ -130,6 +130,12 @@
       "source": "../../marketing-skill/app-store-optimization",
       "category": "marketing",
       "description": "App Store Optimization toolkit for researching keywords, optimizing metadata, and tracking mobile app performance on Apple App Store and Google Play Store."
+    },
+    {
+      "name": "campaign-analytics",
+      "source": "../../marketing-skill/campaign-analytics",
+      "category": "marketing",
+      "description": "Analyzes campaign performance with multi-touch attribution, funnel conversion, and ROI calculation for marketing optimization"
     },
     {
       "name": "content-creator",
@@ -270,7 +276,7 @@
       "description": "Software engineering and technical skills"
     },
     "marketing": {
-      "count": 5,
+      "count": 6,
       "source": "../../marketing-skill",
       "description": "Marketing, content, and demand generation skills"
     },
